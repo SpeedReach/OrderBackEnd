@@ -1,0 +1,10 @@
+{
+  "customer_id": "string",
+  "email": "abcdefg@gmail.com",
+  "order_id": "uuid",
+  "food": {
+    "hamburger": 3,
+    "cola": 1
+  },
+  "price": 20
+}
